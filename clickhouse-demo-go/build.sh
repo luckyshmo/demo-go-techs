@@ -1,0 +1,3 @@
+go get -u github.com/ClickHouse/clickhouse-go
+
+go build -o bin -v ./...
